@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Default Starter`,
-    description: `Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
-    author: `@gatsbyjs`,
+    title: `Open Poll - just for ACD 2020`,
+    description: `Allow users to provide one or more answers to a question and vote on them. Use email ID or cookie to prevent multiple votes later`,
+    author: `John Varghese`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
